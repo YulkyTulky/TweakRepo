@@ -1,0 +1,22 @@
+<package>
+	<id>com.yulkytulky.shydate</id>
+	<name>ShyDate</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+            <miniOS>13.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>mobilesubstrate</dependencies>
+	<descriptionlist>
+		<description>Hide the lockscreen's date subtitle with a tap!</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+	</changelog>
+	<links></links>
+</package>

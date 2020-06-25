@@ -1,0 +1,19 @@
+<package>
+	<id>com.yulkytulky.lower</id>
+	<name>lower</name>
+    <version>1.0</version>
+	<compatibility>
+		<firmware>
+            <miniOS>3.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<descriptionlist>
+		<description>lowercase all visible text everywhere on your iphone! (mostly, some text is impossible to lowercase)</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<links></links>
+</package>

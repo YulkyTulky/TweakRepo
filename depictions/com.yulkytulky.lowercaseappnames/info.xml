@@ -1,0 +1,19 @@
+<package>
+	<id>com.yulkytulky.lowercaseappnames</id>
+	<name>Lowercase App Names</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.3.3</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<descriptionlist>
+		<description>Make application names lowercase on the homescreen</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<links></links>
+</package>

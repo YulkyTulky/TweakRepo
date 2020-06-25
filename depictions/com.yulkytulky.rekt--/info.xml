@@ -1,0 +1,19 @@
+<package>
+	<id>com.yulkytulky.rekt--</id>
+	<name>rEkT--</name>
+    <version>r.3.k.7</version>
+	<compatibility>
+		<firmware>
+            <miniOS>3.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<descriptionlist>
+		<description>rEkT-- distorts the capitalization of (mostly) any visible text on your iPhone! Credits to Greg0109 and TheLazyITGuy for inspiring me with their tweak, rEkT, for only $1 on Packix!</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<links></links>
+</package>

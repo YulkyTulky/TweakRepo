@@ -1,0 +1,23 @@
+<package>
+	<id>com.yulkytulky.colorfullines</id>
+	<name>Colorful Lines</name>
+	<version>1.1-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker</dependencies>
+	<descriptionlist>
+		<description>Customize the scrollbar and cursor! Colorful Lines provides coloring (including custom opacity) and hiding options for the iOS scrollbar and cursor. Also includes custom options for the text selection bars and highlight view! Built for iOS 12 and 13.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Full iOS 12+ support; New custom color options for floating cursor, selection bars, and highlight view</change>
+	</changelog>
+	<links></links>
+</package>
