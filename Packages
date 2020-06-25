@@ -1,3 +1,20 @@
+Package: com.yulkytulky.actify
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: YulkyTulky
+Installed-Size: 388
+Depends: mobilesubstrate (>= 0.9.5000), libactivator (>= 1.8.3), applist, com.cokepokes.libnotifications
+Filename: ./debs/com.yulkytulky.actify_1.2_iphoneos-arm.deb
+Size: 33700
+MD5sum: 8a1ad337a4b2a467c57c424b6f3b7e39
+SHA1: 18a90c88f099a862a7030f6ff542e33d632ba29c
+SHA256: 4e1cc4a42f9333ce107fb7599baa1f0b7da85586c925cab96aa27b65c672cd3f
+Section: System
+Description: Activator event to display a custom notification from any app
+Author: YulkyTulky
+Depiction: https://yulkytulky.github.io/TweakRepo/depictions/?p=com.yulkytulky.actify
+Name: Actify
+
 Package: com.yulkytulky.colorfullines
 Version: 1.0.0-1-1+debug
 Architecture: iphoneos-arm

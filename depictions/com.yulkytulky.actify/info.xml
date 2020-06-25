@@ -1,0 +1,28 @@
+<package>
+	<id>com.yulkytulky.actify</id>
+	<name>Actify</name>
+	<version>1.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>mobilesubstrate (>= 0.9.5000), libactivator (>= 1.8.3), applist, com.cokepokes.libnotifications</dependencies>
+	<descriptionlist>
+        <description>Activator event to display a custom notification from any app. Includes a brand new CLI tool for sending notifications from the command line! Just type "actify" in any terminal (e.g. NewTerm) to view the Actify Tool's options!</description>
+	</descriptionlist>
+	<screenshots>
+        <screenshot>
+            <description>Custom Actify Notification Example</description>
+            <image>actify.png</image>
+        </screenshot>
+    </screenshots>
+	<changelog>
+		<change>Added Actify tool</change>
+	</changelog>
+	<links></links>
+</package>

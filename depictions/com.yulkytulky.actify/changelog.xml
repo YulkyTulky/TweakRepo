@@ -1,0 +1,10 @@
+<changelog>
+	<changes>
+        <version>1.2</version>
+		<change>Added Actify tool</change>
+        <version>1.0</version>
+        <change>Code cleanup + added Activator icon</change>
+		<version>1.0</version>
+		<change>Initial release</change>
+	</changes>
+</changelog>
