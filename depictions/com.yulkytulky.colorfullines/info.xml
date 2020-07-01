@@ -1,7 +1,7 @@
 <package>
 	<id>com.yulkytulky.colorfullines</id>
 	<name>Colorful Lines</name>
-	<version>1.2</version>
+    <version>1.2.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
@@ -17,6 +17,7 @@
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
+        <change>Fixed various bugs; should run seamlessly now</change>
 		<change>Full iOS 12+ support; New custom color options for floating cursor, selection bars, and highlight view</change>
 	</changelog>
 	<links></links>
