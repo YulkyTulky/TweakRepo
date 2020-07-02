@@ -1,0 +1,33 @@
+<package>
+	<id>com.yulkytulky.instanotastalker</id>
+	<name>InstaNotAStalker</name>
+    <version>1.0</version>
+	<compatibility>
+		<firmware>
+            <miniOS>1.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>mobilesubstrate</dependencies>
+	<descriptionlist>
+		<description>Confirm Instagram likes with a slew of preferences!</description>
+        <description></description>
+        <description>Preferences:</description>
+        <description>- When to display an alert (always or only when the post is a day/week/month/year old)</description>
+        <description>- Display alert when double-tapping post and/or pressing icon</description>
+        <description>- Alert's style</description>
+        <description>- Enable/Disable switch</description>
+	</descriptionlist>
+	<screenshots>
+        <screenshot>
+            <description>InstaNotAStalker in action!</description>
+            <image>instanotastalker.png</image>
+        </screenshot>
+    </screenshots>
+	<changelog>
+	</changelog>
+	<links></links>
+</package>
