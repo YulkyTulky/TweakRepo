@@ -1,0 +1,202 @@
+Package: com.yulkytulky.actify
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: YulkyTulky
+Installed-Size: 388
+Depends: mobilesubstrate (>= 0.9.5000), libactivator (>= 1.8.3), applist, com.cokepokes.libnotifications
+Filename: ./debs/com.yulkytulky.actify_1.2_iphoneos-arm.deb
+Size: 33700
+MD5sum: 8a1ad337a4b2a467c57c424b6f3b7e39
+SHA1: 18a90c88f099a862a7030f6ff542e33d632ba29c
+SHA256: 4e1cc4a42f9333ce107fb7599baa1f0b7da85586c925cab96aa27b65c672cd3f
+Section: System
+Description: NEW REPO yulkytulky.com
+Author: YulkyTulky
+Depiction: https://yulkytulky.github.io/TweakRepo/depictions/?p=com.yulkytulky.actify
+Name: Actify
+
+Package: com.yulkytulky.colorfullines
+Version: 1.0.0-1-1+debug
+Architecture: iphoneos-arm
+Maintainer: YulkyTulky
+Installed-Size: 304
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker
+Filename: ./debs/com.yulkytulky.colorfullines_1.0.0-1-1+debug_iphoneos-arm.deb
+Size: 33650
+MD5sum: b761ebf175f184e3c05f90509428198a
+SHA1: f826004669448e3b217cb56787b15a04da0a0ef1
+SHA256: 7b06dcde777d8479b71a3241276f24e4d1dfca4858f21531db0250231fc2323d
+Section: Tweaks
+Description: NEW REPO yulkytulky.com
+Author: YulkyTulky
+Depiction: https://YulkyTulky.github.io/TweakRepo/depictions/?p=com.yulkytulky.colorfullines
+Name: Colorful Lines
+
+Package: com.yulkytulky.colorfullines
+Version: 1.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: YulkyTulky
+Installed-Size: 312
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker
+Filename: ./debs/com.yulkytulky.colorfullines_1.1-1+debug_iphoneos-arm.deb
+Size: 35866
+MD5sum: ee34e42ddd5733289d51cb3dbb7947df
+SHA1: a2fcea249ba49262f93efa888aa6b0e743299fb9
+SHA256: f154c27c07a05a1bcad0b36ac7512a6c1194b6deea7792cd49e39cfca2a11aa8
+Section: Tweaks
+Description: NEW REPO yulkytulky.com
+Author: YulkyTulky
+Depiction: https://YulkyTulky.github.io/TweakRepo/depictions/?p=com.yulkytulky.colorfullines
+Name: Colorful Lines
+
+Package: com.yulkytulky.colorfullines
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: YulkyTulky
+Installed-Size: 260
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker
+Filename: ./debs/com.yulkytulky.colorfullines_1.2_iphoneos-arm.deb
+Size: 31966
+MD5sum: b981a8a27fabd94a99da92e1ef7c0780
+SHA1: b3ddbc6dcd7e1d5625d4d68ec9480972fc800a7f
+SHA256: 1eb6f77dbddb3f559cbb91136ac129c7f5e3ed164500601a9ac66dc2d4138134
+Section: Tweaks
+Description: NEW REPO yulkytulky.com
+Author: YulkyTulky
+Depiction: https://YulkyTulky.github.io/TweakRepo/depictions/?p=com.yulkytulky.colorfullines
+Name: Colorful Lines
+
+Package: com.yulkytulky.colorfullines
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: YulkyTulky
+Installed-Size: 260
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker
+Filename: ./debs/com.yulkytulky.colorfullines_1.2.1_iphoneos-arm.deb
+Size: 33770
+MD5sum: 81c4185db93776c45eb0b0b5eb2a5e2f
+SHA1: 6a350b51c9f9ef7f273230324615b26d0e340a87
+SHA256: b9c950643e1cc642df07fd699dff405f65e87b7568e8454e3190a877e8162495
+Section: Tweaks
+Description: NEW REPO yulkytulky.com
+Author: YulkyTulky
+Depiction: https://YulkyTulky.github.io/TweakRepo/depictions/?p=com.yulkytulky.colorfullines
+Name: Colorful Lines
+
+Package: com.yulkytulky.instanotastalker
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: YulkyTulky
+Installed-Size: 304
+Depends: mobilesubstrate
+Filename: ./debs/com.yulkytulky.instanotastalker_1.0_iphoneos-arm.deb
+Size: 66892
+MD5sum: 6e0edfdfbe09c8d29306b3f2329b5bfb
+SHA1: 1f286cef5e104c654bea3df6afaaac712884676f
+SHA256: 070c25433f7c5d6767d9bc0dab097e95ae92048fca2945d3d8cebee64288fd72
+Section: Tweaks
+Description: NEW REPO yulkytulky.com
+Author: YulkyTulky
+Depiction: https://YulkyTulky.github.io/TweakRepo/depictions/?p=com.yulkytulky.instanotastalker
+Name: InstaNotAStalker
+
+Package: com.yulkytulky.lower
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: YulkyTulky
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.yulkytulky.lower_1.0_iphoneos-arm.deb
+Size: 4662
+MD5sum: 2c627d810079827ef9d00622f5a69ba8
+SHA1: 43d24b3a503bcd5f5f8768d6c1dd0b6601b557d3
+SHA256: 4c103f1faf9e4d8b3bbf639dfa5211349d1b54caff292ed9bf057f3dd6cf2fec
+Section: Tweaks
+Description: NEW REPO yulkytulky.com
+Author: YulkyTulky
+Depiction: https://yulkytulky.github.io/TweakRepo/depictions/?p=com.yulkytulky.lower
+Name: lower
+
+Package: com.yulkytulky.lower
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: YulkyTulky
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.yulkytulky.lower_1.1_iphoneos-arm.deb
+Size: 2234
+MD5sum: 54355081878620c2296c00695799582b
+SHA1: 6cce18a4d3e5b917e3e4810c304bd1ea73915dd5
+SHA256: 1c4bb0c784fc5b3e07078d8f09a7b555dd634cfe000a3b37e2eb968b512cb286
+Section: Tweaks
+Description: NEW REPO: https://yulkytulky.com/
+Author: YulkyTulky
+Name: lower
+
+Package: com.yulkytulky.lowercaseappnames
+Version: 1.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: YulkyTulky
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.yulkytulky.lowercaseappnames_1.0-1+debug_iphoneos-arm.deb
+Size: 3864
+MD5sum: 113907bc1699196f0dc9ccfa95760dc9
+SHA1: 63c4864beacd35941588e54ed2ee1fdd49d5e42a
+SHA256: 5dffe16a3f08f0db1e2e71fa9831b3c0a698cf438fd2901ccf05ef6d796d567d
+Section: Tweaks
+Description: NEW REPO yulkytulky.com
+Author: YulkyTulky
+Depiction: https://yulkytulky.github.io/TweakRepo/depictions/?p=com.yulkytulky.lowercaseappnames
+Name: Lowercase App Names
+
+Package: com.yulkytulky.lowercaseappnames
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: YulkyTulky
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.yulkytulky.lowercaseappnames_1.1_iphoneos-arm.deb
+Size: 2254
+MD5sum: a71374fc07232bbc4fde93bb2949201f
+SHA1: 9689605e4c6eb8456070698ceeeb2cae31f2a312
+SHA256: 81fcdede4e14a3a9b4b5775e13f5fb636b51fb3d67656c715523daf8da97d191
+Section: Tweaks
+Description: NEW REPO: https://yulkytulky.com/
+Author: YulkyTulky
+Name: Lowercase App Names
+
+Package: com.yulkytulky.rekt--
+Version: r.3.k.7
+Architecture: iphoneos-arm
+Maintainer: YulkyTulky
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.yulkytulky.rekt--_r.3.k.7_iphoneos-arm.deb
+Size: 5200
+MD5sum: 920769c6d54f5934cc6062c07e089a38
+SHA1: 74d31482950501a2a889437aff6fc7c9bc7d1063
+SHA256: c7164f632db7c2d957d5d05cbfb5701b1696d89af9193b07feb558e4eb5bad93
+Section: Tweaks
+Description: NEW REPO yulkytulky.com
+Author: YulkyTulky
+Depiction: https://yulkytulky.github.io/TweakRepo/depictions/?p=com.yulkytulky.rekt--
+Name: rEkT--
+
+Package: com.yulkytulky.shydate
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: YulkyTulky
+Installed-Size: 256
+Depends: mobilesubstrate
+Filename: ./debs/com.yulkytulky.shydate_1.0_iphoneos-arm.deb
+Size: 34052
+MD5sum: 79cb999567b7cce157b36b9f0d629315
+SHA1: cfbb10f04325ff1b269259a4292fe7a07bd7665f
+SHA256: 4a9aaa0aba820792cfdb6c005c82ed412b4e30227dcb1aa7b0fe4d2fc2cc22c4
+Section: Tweaks
+Description: NEW REPO yulkytulky.com
+Author: YulkyTulky
+Depiction: https://YulkyTulky.github.io/TweakRepo/depictions/?p=com.yulkytulky.shydate
+Name: ShyDate
+
